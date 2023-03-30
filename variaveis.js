@@ -34,3 +34,6 @@ if (forma === quadrado) {
   area = (x * y) / 2
 }
 console.log(area)
+
+
+//
